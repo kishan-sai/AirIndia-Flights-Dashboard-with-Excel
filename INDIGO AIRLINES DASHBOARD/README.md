@@ -1,4 +1,4 @@
-# ✈️ Indigo Airlines Flight Dashboard – Excel-Based Business Intelligence Project
+# ✈️ Indigo Airlines Flight Dashboard – Excel Based Business Intelligence Project
 
 ![Dashboard Preview](Airlines-Dashboard.png)
 
