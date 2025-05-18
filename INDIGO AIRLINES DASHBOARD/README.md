@@ -1,6 +1,6 @@
 # ✈️ AirIndia Flight Dashboard – Excel Based Business Intelligence Project
 
-![Dashboard Preview](Airlines-Dashboard.png)
+![Dashboard Preview](AIRINDIA-Dashboard.png)
 
 ## 📌 Project Overview
 
