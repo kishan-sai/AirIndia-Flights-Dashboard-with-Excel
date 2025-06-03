@@ -45,6 +45,15 @@ The dashboard helps stakeholders monitor flight operations and make data-driven 
 
 ---
 
+## 🧩 How It Works
+
+- **Data Source:** Historical Indigo flight data  
+- **Processing:** Cleaned and structured within Excel using Tables and PivotTables  
+- **Visualization:** Dashboard built using charts, conditional formatting, and slicers  
+- **Automation:** VBA macros allow users to reset slicers and maintain a clean user interface  
+
+---
+
 ## 📈 Insights Unlocked
 
 - **Top Revenue Routes:** `DEL-MUM` and `BLR-HYD` generated the highest revenue due to high frequency and load factors (via revenue-by-route PivotTable).  
@@ -52,15 +61,6 @@ The dashboard helps stakeholders monitor flight operations and make data-driven 
 - **Monthly Trends:** Revenue peaked in **Dec and Mar** (holiday and fiscal year-end), while OTP dropped in **July–Aug** (monsoon impact), visible in monthly trend charts.  
 - **Domestic vs. International:** Domestic routes showed higher revenue and better OTP (observed using sector-wise slicers).  
 - **Dynamic Micro-Trends:** Slicer combinations revealed route-specific revenue spikes and OTP drops, enabling granular insights.  
-
----
-
-## 🧩 How It Works
-
-- **Data Source:** Historical Indigo flight data  
-- **Processing:** Cleaned and structured within Excel using Tables and PivotTables  
-- **Visualization:** Dashboard built using charts, conditional formatting, and slicers  
-- **Automation:** VBA macros allow users to reset slicers and maintain a clean user interface  
 
 ---
 
